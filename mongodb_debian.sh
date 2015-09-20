@@ -1,3 +1,4 @@
+#tested debian gnu/linux 8 (jessie)
 aptitude install mongodb
 
 #if you want auth mode.
